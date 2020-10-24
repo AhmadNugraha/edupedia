@@ -1,1 +1,1 @@
-# Edupediaa
+# edupedia
